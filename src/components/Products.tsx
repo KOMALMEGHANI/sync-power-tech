@@ -4,7 +4,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Zap, Settings, Cpu, Gauge, Wrench } from 'lucide-react';
 import autoTransformerImg from '@/assets/auto-transformer.png';
 import distributionTransformerImg from '@/assets/distribution-transformer.jpg';
-import chlorinatorImg from '@/assets/pumps.webp';
+import chlorinatorImg from '@/assets/chlorinator-image.webp';
 import furnaceTransformerImg from '@/assets/furance-transformer.jpg';
 import locomotiveTransformerImg from '@/assets/locomotive-and-tracside-power-transformer.png';
 import shuntReactorsImg from '@/assets/shunt-reactors.png';
